@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@openzeppelin/test-helpers": "github:OpenZeppelin/openzeppelin-test-helpers",
+    "bignumber": "^1.1.0",
     "ganache-cli": "^6.12.2",
     "openzeppelin-solidity": "^1.10.0",
     "truffle": "^4.1.0"
