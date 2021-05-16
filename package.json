@@ -1,0 +1,17 @@
+{
+  "name": "smartcontract-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/test-helpers": "github:OpenZeppelin/openzeppelin-test-helpers",
+    "ganache-cli": "^6.12.2",
+    "openzeppelin-solidity": "^1.10.0",
+    "truffle": "^4.1.0"
+  }
+}
